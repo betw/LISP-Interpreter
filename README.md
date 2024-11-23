@@ -1,4 +1,4 @@
-Credit: 6.1900 Staff for template
+Credit: 6.1900 Staff for starter code (students implement core functionality (tokenization, parsing, etc...))
 
 This repository contains a custom Scheme interpreter implemented in Python, supporting a variety of fundamental Scheme functionalities, including symbolic computation, list processing, and mathematical operations. The interpreter provides a robust environment for evaluating Scheme expressions, complete with built-in functions like +, *, car, cdr, map, and custom functions via lambda. It is designed to handle nested expressions, user-defined variables, conditionals (if), and higher-order functions like filter and reduce.
 
